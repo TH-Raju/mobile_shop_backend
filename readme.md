@@ -83,3 +83,9 @@ npm start
 - /api/v1/mobile/:id (DELETE)
 - /api/v1/mobile/update/:id (PATCH)
 - /api/v1/mobile/search?searchTerm=(mobileName/os/...) (GET)
+
+### Order routes
+
+- /api/v1/order (GET)
+- /api/v1/order/create (POST)
+- /api/v1/order/:id (DELETE)

@@ -6,16 +6,16 @@ let orderSchema = new Schema(
     name: {
       type: String,
     },
+    phone: {
+      type: String,
+    },
+    email: {
+      type: String,
+    },
+    address: {
+      type: String,
+    },
     price: {
-      type: String,
-    },
-    processor: {
-      type: String,
-    },
-    memory: {
-      type: String,
-    },
-    os: {
       type: String,
     },
   },

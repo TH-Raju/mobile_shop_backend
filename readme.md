@@ -12,7 +12,7 @@ Make sure you have the following software installed before running the project
 
 ## Project Structure
 
-- './': Contains the source code of the Express.js application.
+- '/': Contains the source code of the Express.js application.
 - '/routes' : Define all API routes.
 - '/controller' : Implement route handlers and business logic.
 - '/service' : hanlde Databse query operation.

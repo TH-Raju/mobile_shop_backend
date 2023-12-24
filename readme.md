@@ -63,7 +63,7 @@ npm start
       {
       "name": "Demo User",
       "email": "demo@gmail.com",
-      "password": "1234567",
+      "password": "123456",
       "role": "user"
       }
   ```
@@ -87,5 +87,5 @@ npm start
 ### Order routes
 
 - /api/v1/order (GET)
-- /api/v1/order/create (POST)
+- /api/v1/order/add (POST)
 - /api/v1/order/:id (DELETE)

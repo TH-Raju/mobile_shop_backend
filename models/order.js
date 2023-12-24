@@ -6,6 +6,9 @@ let orderSchema = new Schema(
     name: {
       type: String,
     },
+    productName: {
+      type: String,
+    },
     phone: {
       type: String,
     },
@@ -13,9 +16,6 @@ let orderSchema = new Schema(
       type: String,
     },
     address: {
-      type: String,
-    },
-    price: {
       type: String,
     },
   },
